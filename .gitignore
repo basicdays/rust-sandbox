@@ -1,18 +1,6 @@
-# Object files
-*.o
-*.ko
+# editors
+*.kate-swp
+*.swp
 
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+# file managers
+.directory
